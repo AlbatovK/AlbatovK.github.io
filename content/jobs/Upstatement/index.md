@@ -1,5 +1,5 @@
 ---
-date: '2023g'
+date: '2023'
 title: 'MEPhI Kotlin Fullstack Developer Course'
 company: 'Kotlin Fullstack Course'
 location: ''

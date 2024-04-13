@@ -1,5 +1,5 @@
 ---
-date: '2020-2021'
+date: '2020'
 title: 'Samsung IT School'
 company: 'Samsung IT School'
 location: ''

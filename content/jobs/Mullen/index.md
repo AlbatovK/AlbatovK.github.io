@@ -1,5 +1,5 @@
 ---
-date: 'Summer 2022'
+date: '2022'
 title: 'CityHeroes Hackathon'
 company: 'CityHeroes Hackathon'
 location: ''

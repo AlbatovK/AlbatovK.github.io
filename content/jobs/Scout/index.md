@@ -1,5 +1,5 @@
 ---
-date: '2021 - 2023'
+date: '2021'
 title: 'Yandex Lyceum'
 company: 'Yandex Lyceum'
 location: ''

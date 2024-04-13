@@ -1,11 +1,11 @@
 ---
-date: '2017-04-01'
-title: 'Developer'
-company: 'Scout Studio'
-location: 'Northeastern University'
-range: 'Spring 2016 & 2017'
-url: 'https://web.northeastern.edu/scout/'
+date: '2021 - 2023'
+title: 'Yandex Lyceum'
+company: 'Yandex Lyceum'
+location: ''
+range: ''
+url: ''
 ---
 
-- Collaborated with other student designers and engineers on pro-bono projects to create new brands, design systems, and websites for organizations in the community
-- Built and delivered technical solutions according to stakeholder business requirements
+- Learned python language and how to create desktop apps, games and web-servers using it
+- Developed [PyChat](https://github.com/AlbatovK/PyChat) - real-time web chat using NoSql low-latency database, [Type'n'play](https://github.com/AlbatovK/Type-n-play) - multiplayer game for typing practise and [FlaskForum](https://github.com/AlbatovK/FlaskForum) - online StackOverFlow-like platform built with Flask

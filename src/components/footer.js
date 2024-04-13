@@ -105,6 +105,10 @@ const Footer = () => {
       </StyledSocialLinks>
 
       <StyledCredit tabindex="-1">
+        <a href="https://github.com/AlbatovK">
+          <div>Albatov Konstantin 2024 </div>
+         </a>
+
         <a href="https://github.com/bchiang7/v4">
           <div>Designed &amp; Built by Brittany Chiang</div>
 

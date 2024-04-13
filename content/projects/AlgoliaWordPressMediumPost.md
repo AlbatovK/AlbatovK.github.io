@@ -1,14 +1,17 @@
 ---
-date: '2020-03-27'
-title: 'Integrating Algolia Search with WordPress Multisite'
-github: ''
-external: 'https://medium.com/stories-from-upstatement/integrating-algolia-search-with-wordpress-multisite-e2dea3ed449c'
+date: '2024'
+title: 'TenderHackathon'
+github: 'https://github.com/AlbatovK/TenderHackathon'
+android: ''
+ios: ''
+external: ''
 tech:
-  - Algolia
-  - WordPress
-  - PHP
-company: 'Upstatement'
+  - Spring Boot
+  - ElasticSearch
+  - Docker Compose
+company: ''
 showInProjects: true
 ---
 
-Building a custom multisite compatible WordPress plugin to build global search with Algolia
+Smart tender aggregator supporting caching, indexing, searching and matching tenders (ZavodIT hackathon winner)
+

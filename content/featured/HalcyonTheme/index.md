@@ -1,15 +1,19 @@
 ---
 date: '1'
-title: 'Halcyon Theme'
-cover: './halcyon.png'
-github: 'https://github.com/bchiang7/halcyon-site'
-external: 'https://halcyon-theme.netlify.com/'
+title: 'Tender hackathon web app'
+cover: './img.png'
+github: 'https://github.com/AlbatovK/TenderHackathon'
+external: 'https://github.com/AlbatovK/TenderHackathon'
 tech:
-  - VS Code
-  - Sublime Text
-  - Atom
-  - iTerm2
-  - Hyper
+  - Kotlin + Spring Boot/WebFlux
+  - Redis
+  - ElasticSearch
+  - Vaadin Flow 24 UI
+  - Docker Compose
+  - Github CI/CD
+  - Kibana
 ---
 
-A minimal, dark blue theme for VS Code, Sublime Text, Atom, iTerm, and more. Available on [Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=brittanychiang.halcyon-vscode), [Package Control](https://packagecontrol.io/packages/Halcyon%20Theme), [Atom Package Manager](https://atom.io/themes/halcyon-syntax), and [npm](https://www.npmjs.com/package/hyper-halcyon-theme).
+Smart tender microservice app, aggregator supporting caching, indexing, searching and matching tenders (ZavodIT hackathon winner).
+Supposed to be integrated in a fully working system to unify and automate process of collecting and processing data with low-latency.
+

@@ -1,13 +1,15 @@
 ---
-date: '2022-01-20'
-title: 'Everytown Gun Law Rankings'
-github: ''
-external: 'https://everytownresearch.org/rankings/'
+date: '2021'
+title: 'KQuiz'
+github: 'https://github.com/AlbatovK/KQuiz'
+external: ''
 tech:
-  - WordPress
-  - Timber
-  - PHP
-  - Airtable API
-company: 'Upstatement'
-showInProjects: false
+  - Android Kotlin
+  - MVVM Architecture
+  - Real-time
+  - Spring Boot
+company: ''
+showInProjects: true
 ---
+
+Online real-time android mutiplayer quiz game

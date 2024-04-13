@@ -1,13 +1,13 @@
 ---
-date: '2017-12-21'
-title: 'UI Engineer Co-op'
-company: 'Apple'
-location: 'Cupertino, CA'
-range: 'July - December 2017'
-url: 'https://www.apple.com/music/'
+date: '2020-2021'
+title: 'Samsung IT School'
+company: 'Samsung IT School'
+location: ''
+range: ''
+url: ''
 ---
 
-- Developed and styled interactive web applications for Apple Music using Ember and SCSS
-- Built and shipped the Apple Music Extension for Facebook Messenger leveraging third-party and internal API integrations
-- Architected and implemented the user interface of Apple Music's embeddable web player widget for in-browser user authorization and full song playback
-- Contributed extensively to the creation of MusicKit JS, a public-facing JavaScript SDK for embedding Apple Music players into web applications
+- Learned basics of native android development
+- Started to build native android apps, such as news aggregators, basic forecast and note apps, eventually including modern technologies in development stack
+- Learned basics about Spring Framework - Spring DI, Spring MVC, Spring Boot and started to integrate small APIs in fullstack apps
+- Took the first place in semi-finals of project competition with [NewsAgency](https://github.com/AlbatovK/NewsAgency) android app

@@ -1,12 +1,12 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+date: 'Summer 2022'
+title: 'CityHeroes Hackathon'
+company: 'CityHeroes Hackathon'
+location: ''
+range: ''
+url: ''
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Took the first place with [Dira](https://github.com/AlbatovK/Dira) - task Manager feat. real-time competitive system and user engagement
+- Used most of the modern technologies for mobile development and built server with Spring Boot using Spring Cache, JPA, Auth and Hibernate
+- Went to a HappyDevLite conference to present my solution

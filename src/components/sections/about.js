@@ -125,7 +125,7 @@ const About = () => {
     sr.reveal(revealContainer.current, srConfig());
   }, []);
 
-  const skills = ['JavaScript (ES6+)', 'TypeScript', 'React', 'Eleventy', 'Node.js', 'WordPress'];
+  const skills = ['Spring Boot', 'Android', 'Java', 'Kotlin', 'Docker Compose', 'Python'];
 
   return (
     <StyledAboutSection id="about" ref={revealContainer}>
@@ -134,31 +134,20 @@ const About = () => {
       <div className="inner">
         <StyledText>
           <div>
-            <p>
-              Hello! My name is Brittany and I enjoy creating things that live on the internet. My
-              interest in web development started back in 2012 when I decided to try editing custom
-              Tumblr themes — turns out hacking together a custom reblog button taught me a lot
-              about HTML &amp; CSS!
-            </p>
 
             <p>
-              Fast-forward to today, and I’ve had the privilege of working at{' '}
-              <a href="https://us.mullenlowe.com/">an advertising agency</a>,{' '}
-              <a href="https://starry.com/">a start-up</a>,{' '}
-              <a href="https://www.apple.com/">a huge corporation</a>, and{' '}
-              <a href="https://scout.camd.northeastern.edu/">a student-led design studio</a>. My
-              main focus these days is building accessible, inclusive products and digital
-              experiences at <a href="https://upstatement.com/">Upstatement</a> for a variety of
-              clients.
-            </p>
+              Hello! My name is Konstantin Albatov and I`m junior software developer passionate about Backend and Mobile development.
+              I`m currently studying in National Research Nuclear University MEPhI on a Cyber Security bachelor`s degree and
+              actively looking for an opportunity to use my skills in production environment.
+           </p>
 
             <p>
-              I also recently{' '}
-              <a href="https://www.newline.co/courses/build-a-spotify-connected-app">
-                launched a course
-              </a>{' '}
-              that covers everything you need to build a web app with the Spotify API using Node
-              &amp; React.
+              Right now I`m learning Spring Framework and exploring it`s capabilities of making web apps with use of modern microservice architecture and technologies.
+              I also have experience in C/C++ and built some projects in Python for fun feat. frameworks such as QT, Flet, Flask, Pygame, etc.
+            </p>
+            <p>
+              For more than 4 years I have been participating in hackathons and other programming competitions and have more than 25 projects and several winner diplomas that would prove my experience.
+              Besides, I`m interested in low-level programming and cyber security and would like to be able to use those skills in developing optimized, flexible and secure digital solutions.
             </p>
 
             <p>Here are a few technologies I’ve been working with recently:</p>
@@ -173,7 +162,7 @@ const About = () => {
           <div className="wrapper">
             <StaticImage
               className="img"
-              src="../../images/me.jpg"
+              src="../../images/me.png"
               width={500}
               quality={95}
               formats={['AUTO', 'WEBP', 'AVIF']}

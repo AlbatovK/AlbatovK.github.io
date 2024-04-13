@@ -1,13 +1,16 @@
 ---
-date: '2018-10-01'
-title: 'Flagship Pioneering'
-github: ''
-external: 'https://www.flagshippioneering.com/'
+date: '2021'
+title: 'Notable'
+github: 'https://github.com/AlbatovK/Notable'
+external: ''
 tech:
-  - Craft CMS
-  - Chart.js
-company: 'Upstatement'
-showInProjects: false
+  - AI Text Recognition
+  - MVVM + Koin DI
+  - Android
+  - CameraX
+  - Google ML Kit
+company: ''
+showInProjects: true
 ---
 
-A marketing site for an ambitious life sciences venture capital company.
+Android note-creator app featuring ai text recognition

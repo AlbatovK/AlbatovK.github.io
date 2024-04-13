@@ -1,14 +1,14 @@
 ---
-date: '2018-12-01'
-title: 'Devoted Health'
-github: ''
-external: 'https://www.devoted.com/'
+date: '2021'
+title: 'Type`n`play'
+github: 'https://github.com/AlbatovK/Type-n-play'
+external: ''
 tech:
-  - Gatsby
-  - TypeScript
-  - Algolia
-company: 'Upstatement'
-showInProjects: false
+  - Python
+  - Pygame
+  - Multiplayer
+company: ''
+showInProjects: true
 ---
 
-A site for a revolutionary healthcare company, including an Algolia instant search integration
+Multiplayer python game for typing excersize

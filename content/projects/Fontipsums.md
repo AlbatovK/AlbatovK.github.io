@@ -1,12 +1,15 @@
 ---
-date: '2016-01-01'
-title: 'Fontipsums'
-github: 'https://github.com/bchiang7/fontipsums/'
-external: 'http://bchiang7.github.io/fontipsums/'
+date: '2020'
+title: 'Forecast'
+github: 'https://github.com/AlbatovK/Forecast'
+external: ''
 tech:
-  - HTML
-  - SCSS
+  - Firebase Analytics
+  - MVVM + Android + Koin DI
+  - SQLite
+  - Github CI/CD
+  - Caching
 showInProjects: true
 ---
 
-Simple website to display some of my favorite font pairings combined with some fun lorem ipsum variations found on the web.
+Android weather forecasting app with caching and auto locating

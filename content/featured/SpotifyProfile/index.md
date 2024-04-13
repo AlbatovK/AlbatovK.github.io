@@ -1,15 +1,19 @@
 ---
 date: '2'
-title: 'Spotify Profile'
-cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+title: 'Spring Security Template'
+cover: './img_1.png'
+github: 'https://github.com/AlbatovK/SpringSecurityTemplate'
+external: 'https://github.com/AlbatovK/SpringSecurityTemplate'
 tech:
-  - React
-  - Styled Components
-  - Express
-  - Spotify API
-  - Heroku
+  - Spring Security 6 - JWT Authentication
+  - PostgresSql
+  - Prometheus
+  - Grafana + Loki
+  - Tempo Tracing
+  - Docker Compose
+  - Swagger UI
+  - Liquibase migrations
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+Spring Security 6 + Spring Boot 3 JWT-Auth implementation + Observability and Monitoring + Tracing requests with Tempo + Liquibase Migrations.
+

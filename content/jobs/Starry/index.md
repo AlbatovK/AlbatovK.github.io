@@ -1,12 +1,13 @@
 ---
-date: '2016-12-21'
-title: 'Software Engineer Co-op'
-company: 'Starry'
-location: 'Boston, MA'
-range: 'July - December 2016'
-url: 'https://starry.com/'
+date: '2023'
+title: 'Changellenge Qiwi hackathon'
+company: 'Changellenge Qiwi hackathon'
+location: ''
+range: ''
+url: ''
 ---
 
-- Engineered and improved major features of Starry's customer-facing Android web app using ES6, Handlebars, Backbone, Marionette, and CSS
-- Proposed and implemented scalable solutions to issues identified with cloud services and applications responsible for communicating with the Starry Station internet router
-- Collaborated with designers and other developers to ensure thoughtful and consistent user experiences across Starry’s iOS and Android mobile apps
+- Took the second place in Changellenge Qiwi hackathon by developing a cache web app
+- During the two-day hackathon developed a [web app](https://github.com/AlbatovK/SpringDockerTemplate) using Spring that acted like proxy to intercept and cache partners` requests, emulating Qiwi's testing system, providing better performance and stability
+- Used such technologies like Redis, PostgresSql, Docker Compose, Spring WebFlux, Spring MVC and Swagger UI
+- Hosted a solution on remote service with autodeploy - Render
